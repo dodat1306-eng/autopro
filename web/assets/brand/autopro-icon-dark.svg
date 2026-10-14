@@ -1,0 +1,18 @@
+<svg width="256" height="256" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <clipPath id="car-cut-dark">
+      <rect x="42" y="66" width="172" height="122" rx="18"/>
+    </clipPath>
+  </defs>
+
+  <g clip-path="url(#car-cut-dark)">
+    <path d="M46 132C57 109 74 90 95 80C111 72 131 68 156 68H171C196 68 216 72 232 80C253 90 270 109 281 132L288 148V186H42V148L46 132Z" fill="#F8FAFC"/>
+    <rect x="152" y="56" width="156" height="144" fill="#F5B700"/>
+    <path d="M66 118L92 84C104 69 123 60 149 60H178C204 60 223 69 235 84L261 118" stroke="#F8FAFC" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M152 60H178C204 60 223 69 235 84L261 118" stroke="#F5B700" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M66 130L95 138L118 130L100 118L78 120L66 130Z" fill="#111827"/>
+    <path d="M264 130L235 138L212 130L230 118L252 120L264 130Z" fill="#FFF7E0"/>
+    <path d="M88 156H130C136 156 141 161 141 167C141 173 136 178 130 178H104C95 178 88 171 88 162C88 158 91 156 88 156Z" stroke="#111827" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M141 156H181C190 156 197 163 197 172C197 181 190 188 181 188H154" stroke="#111827" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+</svg>

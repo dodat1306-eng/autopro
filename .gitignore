@@ -1,0 +1,40 @@
+# Generated build and deployment output
+/build/
+/dist/
+/target/
+*.class
+*.war
+*.ear
+*.log
+
+# Local IDE and server configuration
+/nbproject/private/
+/.idea/
+/.vscode/
+*.iml
+*.local.properties
+
+# User-uploaded photos and private identity documents
+/web/uploads/
+/private/
+
+# Credentials and local environment settings
+.env
+.env.*
+!.env.example
+/notification-config.bat
+/setenv.bat
+*.pem
+*.key
+*.p12
+*.pfx
+
+# Generated reports and local backups
+/reports/*.docx
+/reports/*.pdf
+*.bak
+*.backup
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db

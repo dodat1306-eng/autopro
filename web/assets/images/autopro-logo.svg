@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="240" viewBox="0 0 1100 240" fill="none" preserveAspectRatio="xMinYMid meet" shape-rendering="geometricPrecision" text-rendering="geometricPrecision">
+  <g transform="translate(8 10)">
+    <path d="M55 122L89 71C104 49 132 39 177 39H210C255 39 283 49 298 71L331 122" stroke="#111827" stroke-width="14" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M180 39H210C255 39 283 49 298 71L331 122" stroke="#F5B700" stroke-width="14" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M29 124C38 102 58 84 82 77C102 71 128 69 178 69H210C260 69 286 71 306 77C330 84 350 102 359 124L362 136V173H15V136L29 124Z" fill="#111827"/>
+    <path d="M178 69H210C260 69 286 71 306 77C330 84 350 102 359 124L362 136V173H178V69Z" fill="#F5B700"/>
+    <path d="M22 124L55 137L92 124L68 109L41 111L22 124Z" fill="#FFFFFF"/>
+    <path d="M340 124L307 137L270 124L294 109L321 111L340 124Z" fill="#FFFFFF"/>
+    <path d="M88 144H137C146 144 153 151 153 160C153 169 146 176 137 176H108C95 176 84 165 84 152C84 148 86 144 88 144Z" stroke="#FFFFFF" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M152 144H214C227 144 238 155 238 168C238 181 227 192 214 192H176" stroke="#F5B700" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <g font-family="Segoe UI, Arial, sans-serif" font-size="150" font-weight="900" letter-spacing="-8">
+    <text x="404" y="168" fill="#111827">auto</text>
+    <text x="700" y="168" fill="#F5B700">pro</text>
+  </g>
+</svg>

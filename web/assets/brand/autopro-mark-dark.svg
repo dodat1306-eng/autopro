@@ -1,0 +1,18 @@
+<svg width="360" height="180" viewBox="0 0 360 180" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <clipPath id="mark-cut-dark">
+      <rect x="12" y="28" width="336" height="152" rx="18"/>
+    </clipPath>
+  </defs>
+
+  <g clip-path="url(#mark-cut-dark)">
+    <path d="M18 122C32 91 55 67 84 54C106 44 134 40 170 40H201C237 40 265 44 287 54C316 67 339 91 353 122L360 141V180H12V141L18 122Z" fill="#F8FAFC"/>
+    <rect x="180" y="20" width="200" height="176" fill="#F5B700"/>
+    <path d="M58 104L95 59C112 38 139 28 177 28H214C252 28 279 38 296 59L333 104" stroke="#F8FAFC" stroke-width="16" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M180 28H214C252 28 279 38 296 59L333 104" stroke="#F5B700" stroke-width="16" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M40 118L79 129L110 118L85 103L56 106L40 118Z" fill="#111827"/>
+    <path d="M332 118L293 129L262 118L287 103L316 106L332 118Z" fill="#FFF7E0"/>
+    <path d="M73 145H130C139 145 146 152 146 161C146 170 139 177 130 177H98C85 177 75 167 75 154C75 149 78 145 73 145Z" stroke="#111827" stroke-width="14" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M149 145H214C227 145 237 155 237 168C237 181 227 191 214 191H171" stroke="#111827" stroke-width="14" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+</svg>
